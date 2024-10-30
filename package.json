@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "My Blog",
+  "main": "blogscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node blogscript.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IulianBotnari/express-blog-intro.git"
+  },
+  "author": "Iulian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IulianBotnari/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/IulianBotnari/express-blog-intro#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
