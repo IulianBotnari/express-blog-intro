@@ -34,3 +34,5 @@ const posts = [
         tags: ["API", "RESTful", "Backend", "Web Services"]
     }
 ]
+
+module.exports = posts
